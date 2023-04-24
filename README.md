@@ -1,4 +1,4 @@
-# DogsAndBalls
+# Cars
 Mini juego de prueba para Unity
 Este mini juego está creado como ejercicio para el curso de Frogames.
 
